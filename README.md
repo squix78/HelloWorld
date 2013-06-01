@@ -1,4 +1,3 @@
 HelloWorld
 ==========
 
-My first test
